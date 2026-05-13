@@ -1,0 +1,13 @@
+@import url("./frontend.css");
+
+body,
+.editor-styles-wrapper {
+	background: #f3f3ec;
+	color: #1e271f;
+	font-family: "Source Sans 3", sans-serif;
+}
+
+.editor-styles-wrapper {
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}

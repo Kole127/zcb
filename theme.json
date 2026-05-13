@@ -1,0 +1,83 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"settings": {
+		"appearanceTools": true,
+		"color": {
+			"defaultPalette": false,
+			"palette": [
+				{ "name": "Dark Green", "slug": "dark-green", "color": "#0d4c21" },
+				{ "name": "Primary Green", "slug": "primary-green", "color": "#1d6d31" },
+				{ "name": "Light Green", "slug": "light-green", "color": "#79ba31" },
+				{ "name": "Off White", "slug": "off-white", "color": "#f4f4ed" },
+				{ "name": "White", "slug": "white", "color": "#ffffff" },
+				{ "name": "Text Dark", "slug": "text-dark", "color": "#20281f" },
+				{ "name": "Muted", "slug": "muted", "color": "#5a655b" }
+			]
+		},
+		"layout": {
+			"contentSize": "1180px",
+			"wideSize": "1280px"
+		},
+		"spacing": {
+			"blockGap": "0",
+			"units": [ "px", "rem", "%", "vw" ]
+		},
+		"typography": {
+			"fluid": true,
+			"fontFamilies": [
+				{
+					"name": "Source Sans 3",
+					"slug": "body",
+					"fontFamily": "\"Source Sans 3\", sans-serif"
+				},
+				{
+					"name": "Barlow Condensed",
+					"slug": "display",
+					"fontFamily": "\"Barlow Condensed\", sans-serif"
+				}
+			]
+		}
+	},
+	"styles": {
+		"color": {
+			"background": "var:preset|color|off-white",
+			"text": "var:preset|color|text-dark"
+		},
+		"spacing": {
+			"blockGap": "0",
+			"padding": {
+				"left": "0",
+				"right": "0"
+			}
+		},
+		"typography": {
+			"fontFamily": "var:preset|font-family|body",
+			"lineHeight": "1.6"
+		},
+		"blocks": {
+			"core/group": {
+				"spacing": {
+					"blockGap": "0"
+				}
+			},
+			"core/post-content": {
+				"spacing": {
+					"blockGap": "0"
+				}
+			}
+		}
+	},
+	"templateParts": [
+		{
+			"name": "header",
+			"title": "Header",
+			"area": "header"
+		},
+		{
+			"name": "footer",
+			"title": "Footer",
+			"area": "footer"
+		}
+	]
+}

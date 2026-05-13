@@ -1,0 +1,38 @@
+<!-- wp:template-part {"slug":"header","tagName":"header","theme":"zeleni-centar-bjelovar"} /-->
+<!-- wp:group {"tagName":"main","className":"zcb-section","layout":{"type":"constrained"}} -->
+<main class="wp-block-group zcb-section">
+<!-- wp:group {"style":{"spacing":{"blockGap":"0.7rem","margin":{"bottom":"var:preset|spacing|60"}}}} -->
+<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--60)">
+<!-- wp:paragraph {"style":{"typography":{"fontWeight":"700","textTransform":"uppercase","letterSpacing":"0.08em"},"color":{"text":"var:preset|color|muted"}}} -->
+<p class="has-muted-color has-text-color" style="font-weight:700;letter-spacing:0.08em;text-transform:uppercase">Novosti i sadržaj</p>
+<!-- /wp:paragraph -->
+<!-- wp:query-title {"type":"archive","showPrefix":false,"className":"zcb-section-title"} /-->
+</div>
+<!-- /wp:group -->
+<!-- wp:query {"queryId":0,"query":{"perPage":"10","pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","inherit":true},"layout":{"type":"constrained"}} -->
+<div class="wp-block-query">
+<!-- wp:post-template -->
+<!-- wp:group {"className":"zcb-post-card","layout":{"type":"constrained"}} -->
+<div class="wp-block-group zcb-post-card">
+<!-- wp:post-date {"style":{"typography":{"fontWeight":"700","textTransform":"uppercase","letterSpacing":"0.04em"},"color":{"text":"var:preset|color|muted"}},"fontSize":"small"} /-->
+<!-- wp:post-title {"isLink":true,"fontSize":"heading"} /-->
+<!-- wp:post-excerpt /-->
+<!-- wp:read-more {"content":"Pročitajte objavu","style":{"typography":{"fontWeight":"700","textTransform":"uppercase","letterSpacing":"0.04em"}}} /-->
+</div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+<!-- wp:query-no-results -->
+<!-- wp:paragraph -->
+<p>Trenutno nema objava za prikaz.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results -->
+<!-- wp:query-pagination {"layout":{"type":"flex","justifyContent":"space-between"}} -->
+<!-- wp:query-pagination-previous /-->
+<!-- wp:query-pagination-numbers /-->
+<!-- wp:query-pagination-next /-->
+<!-- /wp:query-pagination -->
+</div>
+<!-- /wp:query -->
+</main>
+<!-- /wp:group -->
+<!-- wp:template-part {"slug":"footer","tagName":"footer","theme":"zeleni-centar-bjelovar"} /-->
