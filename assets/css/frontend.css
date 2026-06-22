@@ -85,7 +85,7 @@ img {
 }
 
 .zcb-logo img {
-	width: 204px;
+	max-width: 180px;
 }
 
 .zcb-nav {
@@ -98,7 +98,7 @@ img {
 .zcb-nav a {
 	color: #313732;
 	font-family: "Barlow Condensed", sans-serif;
-	font-size: 0.84rem;
+	font-size: 16px;
 	font-weight: 700;
 	letter-spacing: 0.045em;
 	text-decoration: none;
@@ -123,7 +123,7 @@ img {
 	isolation: isolate;
 	min-height: 560px;
 	background:
-		url("../images/hero-bg.png") 57% center / cover no-repeat,
+		url("https://zcb.flow.com.hr/wp-content/uploads/2026/05/hero-image.jpg") 57% center / cover no-repeat,
 		linear-gradient(135deg, #234f24 0%, #97c257 100%);
 }
 
@@ -200,8 +200,8 @@ img {
 	align-items: center;
 	justify-content: center;
 	flex: 0 0 auto;
-	width: 46px;
-	height: 46px;
+	width: 48px;
+	height: 48px;
 	border: 2px solid rgba(255, 255, 255, 0.9);
 	border-radius: 50%;
 	color: var(--zcb-white);
@@ -214,8 +214,8 @@ img {
 .zcb-news-symbol svg,
 .zcb-arrow svg {
 	display: block;
-	width: 22px;
-	height: 22px;
+	width: 38px;
+	height: 38px;
 }
 
 .zcb-hero__meta-label {
@@ -360,7 +360,7 @@ img {
 	justify-content: center;
 	width: 36px;
 	height: 36px;
-	color: var(--zcb-green-500);
+	color: var(--zcb-green-700);
 }
 
 .zcb-feature-row__title {
@@ -1000,6 +1000,18 @@ img {
 
 .zcb-footer-links a:hover {
 	text-decoration: underline;
+}
+
+.zcb-footer-bottom {
+	background: #fff;
+	padding: 32px 20px;
+	text-align: center;
+}
+
+.zcb-footer-bottom__image {
+	display: inline-block;
+	max-width: 980px;
+	height: auto;
 }
 
 @media (max-width: 1200px) {

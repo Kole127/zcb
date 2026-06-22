@@ -79,5 +79,12 @@
 			"title": "Footer",
 			"area": "footer"
 		}
+	],
+	"customTemplates": [
+		{
+			"name": "front-page-fallback",
+			"title": "Naslovnica fallback",
+			"postTypes": [ "page" ]
+		}
 	]
 }
