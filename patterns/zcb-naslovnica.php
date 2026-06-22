@@ -219,120 +219,288 @@
 	</section>
 	<!-- /wp:group -->
 
-	<!-- wp:html -->
-
-	<section class="zcb-section zcb-section--soft zcb-stats">
-		<div class="zcb-container zcb-stats__grid">
-			<div class="zcb-stat-card">
+	<!-- wp:group {"tagName":"section","className":"zcb-section zcb-section--soft zcb-stats","layout":{"type":"default"}} -->
+	<section class="wp-block-group zcb-section zcb-section--soft zcb-stats">
+		<!-- wp:group {"className":"zcb-container zcb-stats__grid","layout":{"type":"default"}} -->
+		<div class="wp-block-group zcb-container zcb-stats__grid">
+			<!-- wp:group {"className":"zcb-stat-card","layout":{"type":"default"}} -->
+			<div class="wp-block-group zcb-stat-card">
+				<!-- wp:html -->
 				<span class="zcb-card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M7 3v3M17 3v3M4 8h16M5 6h14a1 1 0 0 1 1 1v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V7a1 1 0 0 1 1-1Z" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
-				<div class="zcb-stat-card__label">Trajanje</div>
-				<div class="zcb-stat-card__value">01.03.2025.<br>- 28.02.2027.</div>
+				<!-- /wp:html -->
+				<!-- wp:paragraph {"className":"zcb-stat-card__label"} -->
+				<p class="zcb-stat-card__label">Trajanje</p>
+				<!-- /wp:paragraph -->
+				<!-- wp:paragraph {"className":"zcb-stat-card__value"} -->
+				<p class="zcb-stat-card__value">01.03.2025.<br>- 28.02.2027.</p>
+				<!-- /wp:paragraph -->
 			</div>
-			<div class="zcb-stat-card">
+			<!-- /wp:group -->
+
+			<!-- wp:group {"className":"zcb-stat-card","layout":{"type":"default"}} -->
+			<div class="wp-block-group zcb-stat-card">
+				<!-- wp:html -->
 				<span class="zcb-card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M12 5v14M7.5 8.5H14a3 3 0 1 1 0 6H10a3 3 0 1 0 0 6h6.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
-				<div class="zcb-stat-card__label">Ukupna vrijednost</div>
-				<div class="zcb-stat-card__value">1.250.000,00 &euro;</div>
+				<!-- /wp:html -->
+				<!-- wp:paragraph {"className":"zcb-stat-card__label"} -->
+				<p class="zcb-stat-card__label">Ukupna vrijednost</p>
+				<!-- /wp:paragraph -->
+				<!-- wp:paragraph {"className":"zcb-stat-card__value"} -->
+				<p class="zcb-stat-card__value">1.250.000,00 &euro;</p>
+				<!-- /wp:paragraph -->
 			</div>
-			<div class="zcb-stat-card">
+			<!-- /wp:group -->
+
+			<!-- wp:group {"className":"zcb-stat-card","layout":{"type":"default"}} -->
+			<div class="wp-block-group zcb-stat-card">
+				<!-- wp:html -->
 				<span class="zcb-card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M12 3a9 9 0 1 0 9 9h-9V3Z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M14.5 3.4A9 9 0 0 1 20.6 9.5H14.5V3.4Z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></span>
-				<div class="zcb-stat-card__label">EU sufinanciranje</div>
-				<div class="zcb-stat-card__value">1.062.500,00 &euro;<br>(85%)</div>
+				<!-- /wp:html -->
+				<!-- wp:paragraph {"className":"zcb-stat-card__label"} -->
+				<p class="zcb-stat-card__label">EU sufinanciranje</p>
+				<!-- /wp:paragraph -->
+				<!-- wp:paragraph {"className":"zcb-stat-card__value"} -->
+				<p class="zcb-stat-card__value">1.062.500,00 &euro;<br>(85%)</p>
+				<!-- /wp:paragraph -->
 			</div>
-			<div class="zcb-stat-card">
+			<!-- /wp:group -->
+
+			<!-- wp:group {"className":"zcb-stat-card","layout":{"type":"default"}} -->
+			<div class="wp-block-group zcb-stat-card">
+				<!-- wp:html -->
 				<span class="zcb-card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M8 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6ZM17 11a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5ZM3.5 19a4.5 4.5 0 0 1 9 0M13 19a4 4 0 0 1 8 0" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
-				<div class="zcb-stat-card__label">Partneri</div>
-				<div class="zcb-stat-card__value">5 organizacija iz<br>2 &#382;upanije</div>
+				<!-- /wp:html -->
+				<!-- wp:paragraph {"className":"zcb-stat-card__label"} -->
+				<p class="zcb-stat-card__label">Partneri</p>
+				<!-- /wp:paragraph -->
+				<!-- wp:paragraph {"className":"zcb-stat-card__value"} -->
+				<p class="zcb-stat-card__value">5 organizacija iz<br>2 &#382;upanije</p>
+				<!-- /wp:paragraph -->
 			</div>
-			<div class="zcb-stat-card">
+			<!-- /wp:group -->
+
+			<!-- wp:group {"className":"zcb-stat-card","layout":{"type":"default"}} -->
+			<div class="wp-block-group zcb-stat-card">
+				<!-- wp:html -->
 				<span class="zcb-card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M12 20s6-5.7 6-10a6 6 0 0 0-12 0c0 4.3 6 10 6 10Z" stroke="currentColor" stroke-width="1.8"/><circle cx="12" cy="10" r="2.2" fill="currentColor"/></svg></span>
-				<div class="zcb-stat-card__label">Lokacija provedbe</div>
-				<div class="zcb-stat-card__value">Grad Bjelovar<br>Bjelovarsko-bilogorska &#382;upanija</div>
+				<!-- /wp:html -->
+				<!-- wp:paragraph {"className":"zcb-stat-card__label"} -->
+				<p class="zcb-stat-card__label">Lokacija provedbe</p>
+				<!-- /wp:paragraph -->
+				<!-- wp:paragraph {"className":"zcb-stat-card__value"} -->
+				<p class="zcb-stat-card__value">Grad Bjelovar<br>Bjelovarsko-bilogorska &#382;upanija</p>
+				<!-- /wp:paragraph -->
 			</div>
-			<div class="zcb-stat-card">
+			<!-- /wp:group -->
+
+			<!-- wp:group {"className":"zcb-stat-card","layout":{"type":"default"}} -->
+			<div class="wp-block-group zcb-stat-card">
+				<!-- wp:html -->
 				<span class="zcb-card-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M4 7h16M6 4h12a1 1 0 0 1 1 1v14l-3-2-3 2-3-2-3 2V5a1 1 0 0 1 1-1Z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></span>
-				<div class="zcb-stat-card__label">Program / fond</div>
-				<div class="zcb-stat-card__value">Program Konkurentnost<br>i kohezija 2021. - 2027.</div>
+				<!-- /wp:html -->
+				<!-- wp:paragraph {"className":"zcb-stat-card__label"} -->
+				<p class="zcb-stat-card__label">Program / fond</p>
+				<!-- /wp:paragraph -->
+				<!-- wp:paragraph {"className":"zcb-stat-card__value"} -->
+				<p class="zcb-stat-card__value">Program Konkurentnost<br>i kohezija 2021. - 2027.</p>
+				<!-- /wp:paragraph -->
 			</div>
+			<!-- /wp:group -->
 		</div>
+		<!-- /wp:group -->
 	</section>
+	<!-- /wp:group -->
 
-	<section class="zcb-section zcb-section--white zcb-activities" id="aktivnosti">
-		<div class="zcb-container zcb-activities__grid">
-			<div>
-				<h2 class="zcb-section__title">Glavne aktivnosti</h2>
-				<div class="zcb-section__rule"></div>
-				<ul class="zcb-number-list">
-					<li data-step="1">Uspostava i opremanje Zelenog centra Bjelovar</li>
-					<li data-step="2">Edukacije i radionice o zelenim vje&#353;tinama</li>
-					<li data-step="3">Savjetovanje za gra&#273;ane i poduzetnike</li>
-					<li data-step="4">Razvoj zelenih rje&#353;enja i pilot projekata</li>
-					<li data-step="5">Promocija i umre&#382;avanje dionika</li>
-				</ul>
+	<!-- wp:group {"tagName":"section","anchor":"aktivnosti","className":"zcb-section zcb-section--white zcb-activities","layout":{"type":"default"}} -->
+	<section id="aktivnosti" class="wp-block-group zcb-section zcb-section--white zcb-activities">
+		<!-- wp:group {"className":"zcb-container","layout":{"type":"default"}} -->
+		<div class="wp-block-group zcb-container">
+			<!-- wp:columns {"verticalAlignment":"center","className":"zcb-activities__grid"} -->
+			<div class="wp-block-columns are-vertically-aligned-center zcb-activities__grid">
+				<!-- wp:column {"verticalAlignment":"center"} -->
+				<div class="wp-block-column is-vertically-aligned-center">
+					<!-- wp:heading {"className":"zcb-section__title"} -->
+					<h2 class="wp-block-heading zcb-section__title">Glavne aktivnosti</h2>
+					<!-- /wp:heading -->
+
+					<!-- wp:group {"className":"zcb-section__rule","layout":{"type":"default"}} -->
+					<div class="wp-block-group zcb-section__rule"></div>
+					<!-- /wp:group -->
+
+					<!-- wp:html -->
+					<ul class="zcb-number-list">
+						<li data-step="1">Uspostava i opremanje Zelenog centra Bjelovar</li>
+						<li data-step="2">Edukacije i radionice o zelenim vje&#353;tinama</li>
+						<li data-step="3">Savjetovanje za gra&#273;ane i poduzetnike</li>
+						<li data-step="4">Razvoj zelenih rje&#353;enja i pilot projekata</li>
+						<li data-step="5">Promocija i umre&#382;avanje dionika</li>
+					</ul>
+					<!-- /wp:html -->
+				</div>
+				<!-- /wp:column -->
+
+				<!-- wp:column {"verticalAlignment":"center"} -->
+				<div class="wp-block-column is-vertically-aligned-center">
+					<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"zcb-illustration"} -->
+					<figure class="wp-block-image size-full zcb-illustration"><img src="/wp-content/themes/zeleni-centar-bjelovar/assets/images/illustration.png" alt="Ilustracija zelenog centra"/></figure>
+					<!-- /wp:image -->
+				</div>
+				<!-- /wp:column -->
+
+				<!-- wp:column {"verticalAlignment":"center"} -->
+				<div class="wp-block-column is-vertically-aligned-center">
+					<!-- wp:group {"anchor":"rezultati","layout":{"type":"default"}} -->
+					<div id="rezultati" class="wp-block-group">
+						<!-- wp:heading {"className":"zcb-section__title"} -->
+						<h2 class="wp-block-heading zcb-section__title">O&#269;ekivani rezultati</h2>
+						<!-- /wp:heading -->
+
+						<!-- wp:group {"className":"zcb-section__rule","layout":{"type":"default"}} -->
+						<div class="wp-block-group zcb-section__rule"></div>
+						<!-- /wp:group -->
+
+						<!-- wp:list {"className":"zcb-check-list"} -->
+						<ul class="wp-block-list zcb-check-list">
+							<!-- wp:list-item -->
+							<li>Vi&#353;e od 1.000 korisnika uklju&#269;eno u aktivnosti</li>
+							<!-- /wp:list-item -->
+
+							<!-- wp:list-item -->
+							<li>Uspostavljen i opremljen Zeleni centar Bjelovar</li>
+							<!-- /wp:list-item -->
+
+							<!-- wp:list-item -->
+							<li>Provedeno 20+ edukacija i radionica</li>
+							<!-- /wp:list-item -->
+
+							<!-- wp:list-item -->
+							<li>5 pilot zelenih projekata u zajednici</li>
+							<!-- /wp:list-item -->
+
+							<!-- wp:list-item -->
+							<li>Pove&#263;ana svijest o odr&#382;ivom razvoju i za&#353;titi okoli&#353;a</li>
+							<!-- /wp:list-item -->
+						</ul>
+						<!-- /wp:list -->
+					</div>
+					<!-- /wp:group -->
+				</div>
+				<!-- /wp:column -->
 			</div>
-			<div class="zcb-illustration">
-				<img src="/wp-content/themes/zeleni-centar-bjelovar/assets/images/illustration.png" alt="Ilustracija zelenog centra">
-			</div>
-			<div id="rezultati">
-				<h2 class="zcb-section__title">O&#269;ekivani rezultati</h2>
-				<div class="zcb-section__rule"></div>
-				<ul class="zcb-check-list">
-					<li>Vi&#353;e od 1.000 korisnika uklju&#269;eno u aktivnosti</li>
-					<li>Uspostavljen i opremljen Zeleni centar Bjelovar</li>
-					<li>Provedeno 20+ edukacija i radionica</li>
-					<li>5 pilot zelenih projekata u zajednici</li>
-					<li>Pove&#263;ana svijest o odr&#382;ivom razvoju i za&#353;titi okoli&#353;a</li>
-				</ul>
-			</div>
+			<!-- /wp:columns -->
 		</div>
+		<!-- /wp:group -->
 	</section>
+	<!-- /wp:group -->
 
-	<section class="zcb-section zcb-section--soft zcb-partners" id="partneri">
-		<div class="zcb-container">
-			<h2 class="zcb-section__title">Projektni partneri</h2>
-			<div class="zcb-section__rule"></div>
-			<div class="zcb-partner-list">
-				<div class="zcb-partner-card">
+	<!-- wp:group {"tagName":"section","anchor":"partneri","className":"zcb-section zcb-section--soft zcb-partners","layout":{"type":"default"}} -->
+	<section id="partneri" class="wp-block-group zcb-section zcb-section--soft zcb-partners">
+		<!-- wp:group {"className":"zcb-container","layout":{"type":"default"}} -->
+		<div class="wp-block-group zcb-container">
+			<!-- wp:heading {"className":"zcb-section__title"} -->
+			<h2 class="wp-block-heading zcb-section__title">Projektni partneri</h2>
+			<!-- /wp:heading -->
+
+			<!-- wp:group {"className":"zcb-section__rule","layout":{"type":"default"}} -->
+			<div class="wp-block-group zcb-section__rule"></div>
+			<!-- /wp:group -->
+
+			<!-- wp:group {"className":"zcb-partner-list","layout":{"type":"default"}} -->
+			<div class="wp-block-group zcb-partner-list">
+				<!-- wp:group {"className":"zcb-partner-card","layout":{"type":"default"}} -->
+				<div class="wp-block-group zcb-partner-card">
+					<!-- wp:html -->
 					<div class="zcb-partner-logo-wrap">
 						<div class="zcb-partner-logo-mark zcb-partner-logo-mark--city" aria-label="Grad Bjelovar">GRAD<br>BJELOVAR</div>
 					</div>
-					<div class="zcb-partner-card__name">Grad Bjelovar</div>
-					<div class="zcb-partner-card__role">Nositelj projekta</div>
+					<!-- /wp:html -->
+					<!-- wp:paragraph {"className":"zcb-partner-card__name"} -->
+					<p class="zcb-partner-card__name">Grad Bjelovar</p>
+					<!-- /wp:paragraph -->
+					<!-- wp:paragraph {"className":"zcb-partner-card__role"} -->
+					<p class="zcb-partner-card__role">Nositelj projekta</p>
+					<!-- /wp:paragraph -->
 				</div>
-				<div class="zcb-partner-card">
+				<!-- /wp:group -->
+
+				<!-- wp:group {"className":"zcb-partner-card","layout":{"type":"default"}} -->
+				<div class="wp-block-group zcb-partner-card">
+					<!-- wp:html -->
 					<div class="zcb-partner-logo-wrap">
 						<div class="zcb-partner-logo-mark zcb-partner-logo-mark--bjvv" aria-label="BJVV">bjvv</div>
 					</div>
-					<div class="zcb-partner-card__name">BjVV</div>
-					<div class="zcb-partner-card__role">Partner</div>
+					<!-- /wp:html -->
+					<!-- wp:paragraph {"className":"zcb-partner-card__name"} -->
+					<p class="zcb-partner-card__name">BjVV</p>
+					<!-- /wp:paragraph -->
+					<!-- wp:paragraph {"className":"zcb-partner-card__role"} -->
+					<p class="zcb-partner-card__role">Partner</p>
+					<!-- /wp:paragraph -->
 				</div>
-				<div class="zcb-partner-card">
+				<!-- /wp:group -->
+
+				<!-- wp:group {"className":"zcb-partner-card","layout":{"type":"default"}} -->
+				<div class="wp-block-group zcb-partner-card">
+					<!-- wp:html -->
 					<div class="zcb-partner-logo-wrap">
 						<div class="zcb-partner-logo-mark zcb-partner-logo-mark--pora" aria-label="PORA">PORA</div>
 					</div>
-					<div class="zcb-partner-card__name">PORA</div>
-					<div class="zcb-partner-card__role">Partner</div>
+					<!-- /wp:html -->
+					<!-- wp:paragraph {"className":"zcb-partner-card__name"} -->
+					<p class="zcb-partner-card__name">PORA</p>
+					<!-- /wp:paragraph -->
+					<!-- wp:paragraph {"className":"zcb-partner-card__role"} -->
+					<p class="zcb-partner-card__role">Partner</p>
+					<!-- /wp:paragraph -->
 				</div>
-				<div class="zcb-partner-card">
+				<!-- /wp:group -->
+
+				<!-- wp:group {"className":"zcb-partner-card","layout":{"type":"default"}} -->
+				<div class="wp-block-group zcb-partner-card">
+					<!-- wp:html -->
 					<div class="zcb-partner-logo-wrap">
 						<div class="zcb-partner-logo-mark zcb-partner-logo-mark--komunalac" aria-label="Komunalac">Komunalac</div>
 					</div>
-					<div class="zcb-partner-card__name">Komunalac Bjelovar</div>
-					<div class="zcb-partner-card__role">Partner</div>
+					<!-- /wp:html -->
+					<!-- wp:paragraph {"className":"zcb-partner-card__name"} -->
+					<p class="zcb-partner-card__name">Komunalac Bjelovar</p>
+					<!-- /wp:paragraph -->
+					<!-- wp:paragraph {"className":"zcb-partner-card__role"} -->
+					<p class="zcb-partner-card__role">Partner</p>
+					<!-- /wp:paragraph -->
 				</div>
-				<div class="zcb-partner-card">
+				<!-- /wp:group -->
+
+				<!-- wp:group {"className":"zcb-partner-card","layout":{"type":"default"}} -->
+				<div class="wp-block-group zcb-partner-card">
+					<!-- wp:html -->
 					<div class="zcb-partner-logo-wrap">
 						<div class="zcb-partner-logo-mark zcb-partner-logo-mark--zelena" aria-label="Zelena Istra">
 							<svg viewBox="0 0 24 24" fill="none"><path d="M20 4c-6.7 1-11.5 4.6-14.2 11.1L4 20l4.8-1.8C15.4 15.5 19 10.7 20 4Z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M9 15c1.8-3.4 4.5-6.1 7.9-7.9" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
 							<span>Zelena Istra</span>
 						</div>
 					</div>
-					<div class="zcb-partner-card__name">Zelena Istra</div>
-					<div class="zcb-partner-card__role">Partner</div>
+					<!-- /wp:html -->
+					<!-- wp:paragraph {"className":"zcb-partner-card__name"} -->
+					<p class="zcb-partner-card__name">Zelena Istra</p>
+					<!-- /wp:paragraph -->
+					<!-- wp:paragraph {"className":"zcb-partner-card__role"} -->
+					<p class="zcb-partner-card__role">Partner</p>
+					<!-- /wp:paragraph -->
 				</div>
+				<!-- /wp:group -->
 			</div>
+			<!-- /wp:group -->
+
+			<!-- wp:paragraph {"className":"zcb-partners__note"} -->
 			<p class="zcb-partners__note">Projekt se provodi u suradnji s vode&#263;im organizacijama s ciljem stvaranja odr&#382;ivih i inovativnih rje&#353;enja za na&#353;u zajednicu.</p>
+			<!-- /wp:paragraph -->
 		</div>
+		<!-- /wp:group -->
 	</section>
+	<!-- /wp:group -->
+
+	<!-- wp:html -->
 
 	<section class="zcb-section zcb-section--white zcb-media" id="mediji">
 		<div class="zcb-container">

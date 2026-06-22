@@ -437,7 +437,7 @@ img {
 
 .zcb-stat-card__label {
 	min-height: 40px;
-	margin-bottom: 10px;
+	margin: 0 0 10px;
 	color: #1f241f;
 	font-size: 0.8rem;
 	font-weight: 700;
@@ -447,6 +447,7 @@ img {
 }
 
 .zcb-stat-card__value {
+	margin: 0;
 	color: #1f241f;
 	font-size: 0.94rem;
 	font-weight: 700;
@@ -463,6 +464,15 @@ img {
 	grid-template-columns: 1fr 0.84fr 1.03fr;
 	gap: 38px;
 	align-items: center;
+	margin-bottom: 0;
+}
+
+.zcb-activities__grid.wp-block-columns {
+	display: grid;
+}
+
+.zcb-activities__grid.wp-block-columns > .wp-block-column {
+	margin: 0;
 }
 
 .zcb-number-list,
@@ -523,6 +533,7 @@ img {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	margin: 0;
 }
 
 .zcb-illustration img {
@@ -660,12 +671,13 @@ img {
 }
 
 .zcb-partner-card__name {
-	margin-bottom: 2px;
+	margin: 0 0 2px;
 	font-size: 0.94rem;
 	font-weight: 700;
 }
 
 .zcb-partner-card__role {
+	margin: 0;
 	color: var(--zcb-muted);
 	font-size: 0.84rem;
 }
