@@ -6,49 +6,104 @@
  * Inserter: true
  */
 ?>
-<!-- wp:html -->
-<main class="zcb-page" id="top">
-	<section class="zcb-hero">
-		<div class="zcb-container zcb-hero__inner">
-			<div class="zcb-hero__content">
-				<h1 class="zcb-hero__title">Zeleni centar<br>Bjelovar</h1>
-				<p class="zcb-hero__lead">Znanjima, inovacijama i suradnjom za odr&#382;ivu i zelenu budu&#263;nost Bjelovara.</p>
-				<div class="zcb-hero__meta">
-					<div class="zcb-hero__meta-item">
+<!-- wp:group {"tagName":"main","anchor":"top","className":"zcb-page","layout":{"type":"default"}} -->
+<main id="top" class="wp-block-group zcb-page">
+	<!-- wp:group {"tagName":"section","className":"zcb-hero","layout":{"type":"default"}} -->
+	<section class="wp-block-group zcb-hero">
+		<!-- wp:group {"className":"zcb-container zcb-hero__inner","layout":{"type":"default"}} -->
+		<div class="wp-block-group zcb-container zcb-hero__inner">
+			<!-- wp:group {"className":"zcb-hero__content","layout":{"type":"default"}} -->
+			<div class="wp-block-group zcb-hero__content">
+				<!-- wp:heading {"level":1,"className":"zcb-hero__title"} -->
+				<h1 class="wp-block-heading zcb-hero__title">Zeleni centar<br>Bjelovar</h1>
+				<!-- /wp:heading -->
+
+				<!-- wp:paragraph {"className":"zcb-hero__lead"} -->
+				<p class="zcb-hero__lead">Znanjima, inovacijama i suradnjom za održivu i zelenu budućnost Bjelovara.</p>
+				<!-- /wp:paragraph -->
+
+				<!-- wp:columns {"className":"zcb-hero__meta"} -->
+				<div class="wp-block-columns zcb-hero__meta">
+					<!-- wp:column {"className":"zcb-hero__meta-item"} -->
+					<div class="wp-block-column zcb-hero__meta-item">
+						<!-- wp:html -->
 						<span class="zcb-icon-round" aria-hidden="true">
 							<svg viewBox="0 0 24 24" fill="none"><path d="M7 3v3M17 3v3M4 8h16M5 6h14a1 1 0 0 1 1 1v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V7a1 1 0 0 1 1-1Z" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
 						</span>
-						<div>
-							<span class="zcb-hero__meta-label">Trajanje projekta</span>
-							<span class="zcb-hero__meta-value">01.03.2025. - 28.02.2027.</span>
+						<!-- /wp:html -->
+						<!-- wp:group {"layout":{"type":"default"}} -->
+						<div class="wp-block-group">
+							<!-- wp:paragraph {"className":"zcb-hero__meta-label"} -->
+							<p class="zcb-hero__meta-label">Trajanje projekta</p>
+							<!-- /wp:paragraph -->
+							<!-- wp:paragraph {"className":"zcb-hero__meta-value"} -->
+							<p class="zcb-hero__meta-value">01.03.2025. - 28.02.2027.</p>
+							<!-- /wp:paragraph -->
 						</div>
+						<!-- /wp:group -->
 					</div>
-					<div class="zcb-hero__meta-item">
+					<!-- /wp:column -->
+
+					<!-- wp:column {"className":"zcb-hero__meta-item"} -->
+					<div class="wp-block-column zcb-hero__meta-item">
+						<!-- wp:html -->
 						<span class="zcb-icon-round" aria-hidden="true">
 							<svg viewBox="0 0 24 24" fill="none"><path d="M12 5v14M7.5 8.5H14a3 3 0 1 1 0 6H10a3 3 0 1 0 0 6h6.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
 						</span>
-						<div>
-							<span class="zcb-hero__meta-label">Ukupna vrijednost</span>
-							<span class="zcb-hero__meta-value">1.250.000,00 &euro;</span>
+						<!-- /wp:html -->
+						<!-- wp:group {"layout":{"type":"default"}} -->
+						<div class="wp-block-group">
+							<!-- wp:paragraph {"className":"zcb-hero__meta-label"} -->
+							<p class="zcb-hero__meta-label">Ukupna vrijednost</p>
+							<!-- /wp:paragraph -->
+							<!-- wp:paragraph {"className":"zcb-hero__meta-value"} -->
+							<p class="zcb-hero__meta-value">1.250.000,00 €</p>
+							<!-- /wp:paragraph -->
 						</div>
+						<!-- /wp:group -->
 					</div>
-					<div class="zcb-hero__meta-item">
+					<!-- /wp:column -->
+
+					<!-- wp:column {"className":"zcb-hero__meta-item"} -->
+					<div class="wp-block-column zcb-hero__meta-item">
+						<!-- wp:html -->
 						<span class="zcb-icon-round" aria-hidden="true">
 							<svg viewBox="0 0 24 24" fill="none"><path d="M12 3a9 9 0 1 0 9 9h-9V3Z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M14.5 3.4A9 9 0 0 1 20.6 9.5H14.5V3.4Z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>
 						</span>
-						<div>
-							<span class="zcb-hero__meta-label">EU sufinanciranje</span>
-							<span class="zcb-hero__meta-value">1.062.500,00 &euro; (85%)</span>
+						<!-- /wp:html -->
+						<!-- wp:group {"layout":{"type":"default"}} -->
+						<div class="wp-block-group">
+							<!-- wp:paragraph {"className":"zcb-hero__meta-label"} -->
+							<p class="zcb-hero__meta-label">EU sufinanciranje</p>
+							<!-- /wp:paragraph -->
+							<!-- wp:paragraph {"className":"zcb-hero__meta-value"} -->
+							<p class="zcb-hero__meta-value">1.062.500,00 € (85%)</p>
+							<!-- /wp:paragraph -->
 						</div>
+						<!-- /wp:group -->
 					</div>
+					<!-- /wp:column -->
 				</div>
-				<div class="zcb-buttons">
-					<a class="zcb-button zcb-button--primary" href="#o-projektu">Saznaj vi&#353;e</a>
-					<a class="zcb-button zcb-button--outline" href="#kontakt">Kontaktirajte nas</a>
+				<!-- /wp:columns -->
+
+				<!-- wp:buttons {"className":"zcb-buttons"} -->
+				<div class="wp-block-buttons zcb-buttons">
+					<!-- wp:button {"className":"zcb-button zcb-button--primary"} -->
+					<div class="wp-block-button zcb-button zcb-button--primary"><a class="wp-block-button__link wp-element-button" href="#o-projektu">Saznaj više</a></div>
+					<!-- /wp:button -->
+					<!-- wp:button {"className":"zcb-button zcb-button--outline"} -->
+					<div class="wp-block-button zcb-button zcb-button--outline"><a class="wp-block-button__link wp-element-button" href="#kontakt">Kontaktirajte nas</a></div>
+					<!-- /wp:button -->
 				</div>
+				<!-- /wp:buttons -->
 			</div>
+			<!-- /wp:group -->
 		</div>
+		<!-- /wp:group -->
 	</section>
+	<!-- /wp:group -->
+
+	<!-- wp:html -->
 
 	<section class="zcb-section zcb-section--white zcb-project" id="o-projektu">
 		<div class="zcb-container zcb-project__grid">
@@ -339,5 +394,6 @@
 			</div>
 		</div>
 	</section>
+	<!-- /wp:html -->
 </main>
-<!-- /wp:html -->
+<!-- /wp:group -->

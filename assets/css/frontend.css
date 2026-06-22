@@ -188,6 +188,14 @@ img {
 	margin-bottom: 30px;
 }
 
+.zcb-hero__meta.wp-block-columns {
+	display: grid;
+}
+
+.zcb-hero__meta.wp-block-columns > .wp-block-column {
+	margin: 0;
+}
+
 .zcb-hero__meta-item {
 	display: grid;
 	grid-template-columns: 46px 1fr;
@@ -244,6 +252,11 @@ img {
 
 .zcb-button {
 	display: inline-flex;
+}
+
+.zcb-button .wp-block-button__link,
+.zcb-button {
+	display: inline-flex;
 	align-items: center;
 	justify-content: center;
 	min-width: 146px;
@@ -260,7 +273,17 @@ img {
 	transition: transform 0.2s ease, background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
 }
 
-.zcb-button:hover {
+.zcb-button .wp-block-button__link {
+	width: 100%;
+	border: inherit;
+	border-radius: inherit;
+	background: inherit;
+	color: inherit;
+	box-shadow: inherit;
+}
+
+.zcb-button:hover,
+.zcb-button .wp-block-button__link:hover {
 	transform: translateY(-1px);
 }
 
@@ -1142,6 +1165,10 @@ img {
 	}
 
 	.zcb-button {
+		width: 100%;
+	}
+
+	.zcb-button .wp-block-button__link {
 		width: 100%;
 	}
 
