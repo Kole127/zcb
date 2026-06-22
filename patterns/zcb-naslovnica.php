@@ -103,55 +103,123 @@
 	</section>
 	<!-- /wp:group -->
 
-	<!-- wp:html -->
+	<!-- wp:group {"tagName":"section","anchor":"o-projektu","className":"zcb-section zcb-section--white zcb-project","layout":{"type":"default"}} -->
+	<section id="o-projektu" class="wp-block-group zcb-section zcb-section--white zcb-project">
+		<!-- wp:group {"className":"zcb-container zcb-project__grid","layout":{"type":"default"}} -->
+		<div class="wp-block-group zcb-container zcb-project__grid">
+			<!-- wp:group {"layout":{"type":"default"}} -->
+			<div class="wp-block-group">
+				<!-- wp:heading {"className":"zcb-section__title"} -->
+				<h2 class="wp-block-heading zcb-section__title">O projektu</h2>
+				<!-- /wp:heading -->
 
-	<section class="zcb-section zcb-section--white zcb-project" id="o-projektu">
-		<div class="zcb-container zcb-project__grid">
-			<div>
-				<h2 class="zcb-section__title">O projektu</h2>
-				<div class="zcb-section__rule"></div>
+				<!-- wp:group {"className":"zcb-section__rule","layout":{"type":"default"}} -->
+				<div class="wp-block-group zcb-section__rule"></div>
+				<!-- /wp:group -->
+
+				<!-- wp:paragraph {"className":"zcb-project__text"} -->
 				<p class="zcb-project__text">Projekt &bdquo;Zeleni centar Bjelovar&rdquo; usmjeren je na razvoj inovativnog centra za odr&#382;ivi razvoj i zelenu tranziciju u gradu Bjelovaru. Kroz edukacije, savjetovanje, istra&#382;ivanje i suradnju poti&#269;emo zelene vje&#353;tine, poduzetni&#353;tvo i zelene tehnologije te ja&#269;amo otpornost lokalne zajednice na klimatske promjene.</p>
+				<!-- /wp:paragraph -->
 			</div>
-			<div class="zcb-feature-list">
-				<div class="zcb-feature-row">
+			<!-- /wp:group -->
+
+			<!-- wp:group {"className":"zcb-feature-list","layout":{"type":"default"}} -->
+			<div class="wp-block-group zcb-feature-list">
+				<!-- wp:group {"className":"zcb-feature-row","layout":{"type":"default"}} -->
+				<div class="wp-block-group zcb-feature-row">
+					<!-- wp:html -->
 					<div class="zcb-feature-row__icon" aria-hidden="true">
 						<svg viewBox="0 0 24 24" fill="none"><path d="m12 3 1.8 2.7 3.2-.3-.8 3.1 2.6 1.8-2.6 1.8.8 3.1-3.2-.3L12 18l-1.8-2.7-3.2.3.8-3.1L5.2 10.5 7.8 8.7 7 5.6l3.2.3L12 3Z" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></svg>
 					</div>
-					<div>
-						<h3 class="zcb-feature-row__title">Problem koji rje&#353;avamo</h3>
+					<!-- /wp:html -->
+
+					<!-- wp:group {"layout":{"type":"default"}} -->
+					<div class="wp-block-group">
+						<!-- wp:heading {"level":3,"className":"zcb-feature-row__title"} -->
+						<h3 class="wp-block-heading zcb-feature-row__title">Problem koji rje&#353;avamo</h3>
+						<!-- /wp:heading -->
+
+						<!-- wp:paragraph {"className":"zcb-feature-row__text"} -->
 						<p class="zcb-feature-row__text">Nedostatak znanja, infrastrukture i podr&#353;ke za zelenu tranziciju u lokalnoj zajednici.</p>
+						<!-- /wp:paragraph -->
 					</div>
+					<!-- /wp:group -->
 				</div>
-				<div class="zcb-feature-row">
+				<!-- /wp:group -->
+
+				<!-- wp:group {"className":"zcb-feature-row","layout":{"type":"default"}} -->
+				<div class="wp-block-group zcb-feature-row">
+					<!-- wp:html -->
 					<div class="zcb-feature-row__icon" aria-hidden="true">
 						<svg viewBox="0 0 24 24" fill="none"><path d="M12 4v16M4 12h16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="12" cy="12" r="8" stroke="currentColor" stroke-width="1.8"/></svg>
 					</div>
-					<div>
-						<h3 class="zcb-feature-row__title">Cilj projekta</h3>
+					<!-- /wp:html -->
+
+					<!-- wp:group {"layout":{"type":"default"}} -->
+					<div class="wp-block-group">
+						<!-- wp:heading {"level":3,"className":"zcb-feature-row__title"} -->
+						<h3 class="wp-block-heading zcb-feature-row__title">Cilj projekta</h3>
+						<!-- /wp:heading -->
+
+						<!-- wp:paragraph {"className":"zcb-feature-row__text"} -->
 						<p class="zcb-feature-row__text">Uspostaviti Zeleni centar Bjelovar kao mjesto znanja, inovacija i suradnje za odr&#382;ivi razvoj.</p>
+						<!-- /wp:paragraph -->
 					</div>
+					<!-- /wp:group -->
 				</div>
-				<div class="zcb-feature-row">
+				<!-- /wp:group -->
+
+				<!-- wp:group {"className":"zcb-feature-row","layout":{"type":"default"}} -->
+				<div class="wp-block-group zcb-feature-row">
+					<!-- wp:html -->
 					<div class="zcb-feature-row__icon" aria-hidden="true">
 						<svg viewBox="0 0 24 24" fill="none"><path d="M8 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6ZM17 11a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5ZM3.5 19a4.5 4.5 0 0 1 9 0M13 19a4 4 0 0 1 8 0" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
 					</div>
-					<div>
-						<h3 class="zcb-feature-row__title">Ciljane skupine</h3>
+					<!-- /wp:html -->
+
+					<!-- wp:group {"layout":{"type":"default"}} -->
+					<div class="wp-block-group">
+						<!-- wp:heading {"level":3,"className":"zcb-feature-row__title"} -->
+						<h3 class="wp-block-heading zcb-feature-row__title">Ciljane skupine</h3>
+						<!-- /wp:heading -->
+
+						<!-- wp:paragraph {"className":"zcb-feature-row__text"} -->
 						<p class="zcb-feature-row__text">Mladi, poduzetnici, udruge, obrazovne ustanove, javne institucije i gra&#273;ani.</p>
+						<!-- /wp:paragraph -->
 					</div>
+					<!-- /wp:group -->
 				</div>
-				<div class="zcb-feature-row">
+				<!-- /wp:group -->
+
+				<!-- wp:group {"className":"zcb-feature-row","layout":{"type":"default"}} -->
+				<div class="wp-block-group zcb-feature-row">
+					<!-- wp:html -->
 					<div class="zcb-feature-row__icon" aria-hidden="true">
 						<svg viewBox="0 0 24 24" fill="none"><path d="M12 20V10M12 10l-4-4M12 10l4-4M6 20h12" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
 					</div>
-					<div>
-						<h3 class="zcb-feature-row__title">O&#269;ekivani u&#269;inci</h3>
+					<!-- /wp:html -->
+
+					<!-- wp:group {"layout":{"type":"default"}} -->
+					<div class="wp-block-group">
+						<!-- wp:heading {"level":3,"className":"zcb-feature-row__title"} -->
+						<h3 class="wp-block-heading zcb-feature-row__title">O&#269;ekivani u&#269;inci</h3>
+						<!-- /wp:heading -->
+
+						<!-- wp:paragraph {"className":"zcb-feature-row__text"} -->
 						<p class="zcb-feature-row__text">Ja&#269;anje zelenih kompetencija, razvoj zelenih projekata i podizanje kvalitete &#382;ivota.</p>
+						<!-- /wp:paragraph -->
 					</div>
+					<!-- /wp:group -->
 				</div>
+				<!-- /wp:group -->
 			</div>
+			<!-- /wp:group -->
 		</div>
+		<!-- /wp:group -->
 	</section>
+	<!-- /wp:group -->
+
+	<!-- wp:html -->
 
 	<section class="zcb-section zcb-section--soft zcb-stats">
 		<div class="zcb-container zcb-stats__grid">
