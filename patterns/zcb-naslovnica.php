@@ -500,104 +500,283 @@
 	</section>
 	<!-- /wp:group -->
 
-	<!-- wp:html -->
+	<!-- wp:group {"tagName":"section","anchor":"mediji","className":"zcb-section zcb-section--white zcb-media","layout":{"type":"default"}} -->
+	<section id="mediji" class="wp-block-group zcb-section zcb-section--white zcb-media">
+		<!-- wp:group {"className":"zcb-container","layout":{"type":"default"}} -->
+		<div class="wp-block-group zcb-container">
+			<!-- wp:heading {"className":"zcb-section__title"} -->
+			<h2 class="wp-block-heading zcb-section__title">Mediji o nama</h2>
+			<!-- /wp:heading -->
 
-	<section class="zcb-section zcb-section--white zcb-media" id="mediji">
-		<div class="zcb-container">
-			<h2 class="zcb-section__title">Mediji o nama</h2>
-			<div class="zcb-section__rule"></div>
+			<!-- wp:group {"className":"zcb-section__rule","layout":{"type":"default"}} -->
+			<div class="wp-block-group zcb-section__rule"></div>
+			<!-- /wp:group -->
+
+			<!-- wp:paragraph {"className":"zcb-media__subtitle"} -->
 			<p class="zcb-media__subtitle">Projekt je predstavljen u nacionalnim, regionalnim i stru&#269;nim medijima.</p>
-			<div class="zcb-media__grid">
-				<article class="zcb-media-card">
-					<div class="zcb-media-card__image">
-						<img src="/wp-content/themes/zeleni-centar-bjelovar/assets/images/media-1.png" alt="Bjelovarski list">
-						<span class="zcb-media-card__badge">Bjelovarski list</span>
-					</div>
-					<div class="zcb-media-card__body">
-						<p class="zcb-media-card__date">10.04.2026.</p>
-						<h3 class="zcb-media-card__title">U Bjelovaru otvoren Zeleni centar - novo mjesto za znanje i odr&#382;ivi razvoj</h3>
-						<a class="zcb-link-arrow" href="#">Pro&#269;itaj objavu</a>
-					</div>
-				</article>
-				<article class="zcb-media-card">
-					<div class="zcb-media-card__image">
-						<img src="/wp-content/themes/zeleni-centar-bjelovar/assets/images/media-2.png" alt="Radio Kaj">
-						<span class="zcb-media-card__badge">Radio Kaj</span>
-					</div>
-					<div class="zcb-media-card__body">
-						<p class="zcb-media-card__date">20.03.2026.</p>
-						<h3 class="zcb-media-card__title">Intervju o projektu Zeleni centar Bjelovar i zelenim prilikama za poduzetnike</h3>
-						<a class="zcb-link-arrow" href="#">Pro&#269;itaj objavu</a>
-					</div>
-				</article>
-				<article class="zcb-media-card">
-					<div class="zcb-media-card__image">
-						<img src="/wp-content/themes/zeleni-centar-bjelovar/assets/images/media-3.png" alt="&#381;upanijski glas">
-						<span class="zcb-media-card__badge">&#381;upanijski glas</span>
-					</div>
-					<div class="zcb-media-card__body">
-						<p class="zcb-media-card__date">15.03.2026.</p>
-						<h3 class="zcb-media-card__title">Odr&#382;ana prva edukacija u okviru projekta Zeleni centar Bjelovar</h3>
-						<a class="zcb-link-arrow" href="#">Pro&#269;itaj objavu</a>
-					</div>
-				</article>
-				<article class="zcb-media-card">
-					<div class="zcb-media-card__image">
-						<img src="/wp-content/themes/zeleni-centar-bjelovar/assets/images/media-4.png" alt="Portal Grad Bjelovar">
-						<span class="zcb-media-card__badge">Portal Grad Bjelovar</span>
-					</div>
-					<div class="zcb-media-card__body">
-						<p class="zcb-media-card__date">05.03.2026.</p>
-						<h3 class="zcb-media-card__title">Bjelovar ide zeleno: predstavljen projekt Zeleni centar Bjelovar</h3>
-						<a class="zcb-link-arrow" href="#">Pro&#269;itaj objavu</a>
-					</div>
-				</article>
-			</div>
-			<div class="zcb-media__actions">
-				<a class="zcb-button zcb-button--light" href="#novosti">Sve objave</a>
-			</div>
-		</div>
-	</section>
+			<!-- /wp:paragraph -->
 
-	<section class="zcb-section zcb-section--soft zcb-news-contact" id="novosti">
-		<div class="zcb-container zcb-news-contact__grid">
-			<div>
-				<h2 class="zcb-section__title">Novosti i doga&#273;anja</h2>
-				<div class="zcb-section__rule"></div>
-				<div class="zcb-news-feed">
-					<div class="zcb-news-item">
-						<span class="zcb-news-symbol" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M5 4h14v16H5z" stroke="currentColor" stroke-width="1.8"/><path d="M8 8h8M8 12h8M8 16h5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></span>
-						<div>
-							<h3 class="zcb-news-item__title">Najavljena radionica: Kako do zelenog poslovanja?</h3>
-							<p class="zcb-news-item__text">Radionica za poduzetnike i obrtnike. 30.05.2026.</p>
-						</div>
-						<span class="zcb-arrow" aria-hidden="true"><svg viewBox="0 0 20 20" fill="none"><path d="M4 10h12M11 5l5 5-5 5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+			<!-- wp:group {"className":"zcb-media__grid","layout":{"type":"default"}} -->
+			<div class="wp-block-group zcb-media__grid">
+				<!-- wp:group {"tagName":"article","className":"zcb-media-card","layout":{"type":"default"}} -->
+				<article class="wp-block-group zcb-media-card">
+					<!-- wp:group {"className":"zcb-media-card__image","layout":{"type":"default"}} -->
+					<div class="wp-block-group zcb-media-card__image">
+						<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+						<figure class="wp-block-image size-full"><img src="/wp-content/themes/zeleni-centar-bjelovar/assets/images/media-1.png" alt="Bjelovarski list"/></figure>
+						<!-- /wp:image -->
+						<!-- wp:paragraph {"className":"zcb-media-card__badge"} -->
+						<p class="zcb-media-card__badge">Bjelovarski list</p>
+						<!-- /wp:paragraph -->
 					</div>
-					<div class="zcb-news-item">
-						<span class="zcb-news-symbol" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M12 20V8M12 8 8 4M12 8l4-4M6 20h12" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
-						<div>
-							<h3 class="zcb-news-item__title">Poziv na besplatne edukacije</h3>
-							<p class="zcb-news-item__text">Prijavite se na na&#353;e edukacije o odr&#382;ivosti i zelenim vje&#353;tinama. 20.05.2026.</p>
+					<!-- /wp:group -->
+
+					<!-- wp:group {"className":"zcb-media-card__body","layout":{"type":"default"}} -->
+					<div class="wp-block-group zcb-media-card__body">
+						<!-- wp:paragraph {"className":"zcb-media-card__date"} -->
+						<p class="zcb-media-card__date">10.04.2026.</p>
+						<!-- /wp:paragraph -->
+						<!-- wp:heading {"level":3,"className":"zcb-media-card__title"} -->
+						<h3 class="wp-block-heading zcb-media-card__title">U Bjelovaru otvoren Zeleni centar - novo mjesto za znanje i odr&#382;ivi razvoj</h3>
+						<!-- /wp:heading -->
+						<!-- wp:buttons -->
+						<div class="wp-block-buttons">
+							<!-- wp:button {"className":"zcb-link-arrow"} -->
+							<div class="wp-block-button zcb-link-arrow"><a class="wp-block-button__link wp-element-button" href="#">Pro&#269;itaj objavu</a></div>
+							<!-- /wp:button -->
 						</div>
-						<span class="zcb-arrow" aria-hidden="true"><svg viewBox="0 0 20 20" fill="none"><path d="M4 10h12M11 5l5 5-5 5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+						<!-- /wp:buttons -->
 					</div>
-					<div class="zcb-news-item">
-						<span class="zcb-news-symbol" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M6 5h12v14H6z" stroke="currentColor" stroke-width="1.8"/><path d="M9 3v4M15 3v4M6 9h12" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></span>
-						<div>
-							<h3 class="zcb-news-item__title">Dan otvorenih vrata Zelenog centra</h3>
-							<p class="zcb-news-item__text">Do&#273;ite i saznajte vi&#353;e o aktivnostima centra. 10.05.2026.</p>
+					<!-- /wp:group -->
+				</article>
+				<!-- /wp:group -->
+
+				<!-- wp:group {"tagName":"article","className":"zcb-media-card","layout":{"type":"default"}} -->
+				<article class="wp-block-group zcb-media-card">
+					<!-- wp:group {"className":"zcb-media-card__image","layout":{"type":"default"}} -->
+					<div class="wp-block-group zcb-media-card__image">
+						<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+						<figure class="wp-block-image size-full"><img src="/wp-content/themes/zeleni-centar-bjelovar/assets/images/media-2.png" alt="Radio Kaj"/></figure>
+						<!-- /wp:image -->
+						<!-- wp:paragraph {"className":"zcb-media-card__badge"} -->
+						<p class="zcb-media-card__badge">Radio Kaj</p>
+						<!-- /wp:paragraph -->
+					</div>
+					<!-- /wp:group -->
+
+					<!-- wp:group {"className":"zcb-media-card__body","layout":{"type":"default"}} -->
+					<div class="wp-block-group zcb-media-card__body">
+						<!-- wp:paragraph {"className":"zcb-media-card__date"} -->
+						<p class="zcb-media-card__date">20.03.2026.</p>
+						<!-- /wp:paragraph -->
+						<!-- wp:heading {"level":3,"className":"zcb-media-card__title"} -->
+						<h3 class="wp-block-heading zcb-media-card__title">Intervju o projektu Zeleni centar Bjelovar i zelenim prilikama za poduzetnike</h3>
+						<!-- /wp:heading -->
+						<!-- wp:buttons -->
+						<div class="wp-block-buttons">
+							<!-- wp:button {"className":"zcb-link-arrow"} -->
+							<div class="wp-block-button zcb-link-arrow"><a class="wp-block-button__link wp-element-button" href="#">Pro&#269;itaj objavu</a></div>
+							<!-- /wp:button -->
 						</div>
-						<span class="zcb-arrow" aria-hidden="true"><svg viewBox="0 0 20 20" fill="none"><path d="M4 10h12M11 5l5 5-5 5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+						<!-- /wp:buttons -->
 					</div>
-				</div>
-				<div class="zcb-news-contact__actions">
-					<a class="zcb-button zcb-button--light" href="#">Sve novosti</a>
-				</div>
+					<!-- /wp:group -->
+				</article>
+				<!-- /wp:group -->
+
+				<!-- wp:group {"tagName":"article","className":"zcb-media-card","layout":{"type":"default"}} -->
+				<article class="wp-block-group zcb-media-card">
+					<!-- wp:group {"className":"zcb-media-card__image","layout":{"type":"default"}} -->
+					<div class="wp-block-group zcb-media-card__image">
+						<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+						<figure class="wp-block-image size-full"><img src="/wp-content/themes/zeleni-centar-bjelovar/assets/images/media-3.png" alt="&#381;upanijski glas"/></figure>
+						<!-- /wp:image -->
+						<!-- wp:paragraph {"className":"zcb-media-card__badge"} -->
+						<p class="zcb-media-card__badge">&#381;upanijski glas</p>
+						<!-- /wp:paragraph -->
+					</div>
+					<!-- /wp:group -->
+
+					<!-- wp:group {"className":"zcb-media-card__body","layout":{"type":"default"}} -->
+					<div class="wp-block-group zcb-media-card__body">
+						<!-- wp:paragraph {"className":"zcb-media-card__date"} -->
+						<p class="zcb-media-card__date">15.03.2026.</p>
+						<!-- /wp:paragraph -->
+						<!-- wp:heading {"level":3,"className":"zcb-media-card__title"} -->
+						<h3 class="wp-block-heading zcb-media-card__title">Odr&#382;ana prva edukacija u okviru projekta Zeleni centar Bjelovar</h3>
+						<!-- /wp:heading -->
+						<!-- wp:buttons -->
+						<div class="wp-block-buttons">
+							<!-- wp:button {"className":"zcb-link-arrow"} -->
+							<div class="wp-block-button zcb-link-arrow"><a class="wp-block-button__link wp-element-button" href="#">Pro&#269;itaj objavu</a></div>
+							<!-- /wp:button -->
+						</div>
+						<!-- /wp:buttons -->
+					</div>
+					<!-- /wp:group -->
+				</article>
+				<!-- /wp:group -->
+
+				<!-- wp:group {"tagName":"article","className":"zcb-media-card","layout":{"type":"default"}} -->
+				<article class="wp-block-group zcb-media-card">
+					<!-- wp:group {"className":"zcb-media-card__image","layout":{"type":"default"}} -->
+					<div class="wp-block-group zcb-media-card__image">
+						<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+						<figure class="wp-block-image size-full"><img src="/wp-content/themes/zeleni-centar-bjelovar/assets/images/media-4.png" alt="Portal Grad Bjelovar"/></figure>
+						<!-- /wp:image -->
+						<!-- wp:paragraph {"className":"zcb-media-card__badge"} -->
+						<p class="zcb-media-card__badge">Portal Grad Bjelovar</p>
+						<!-- /wp:paragraph -->
+					</div>
+					<!-- /wp:group -->
+
+					<!-- wp:group {"className":"zcb-media-card__body","layout":{"type":"default"}} -->
+					<div class="wp-block-group zcb-media-card__body">
+						<!-- wp:paragraph {"className":"zcb-media-card__date"} -->
+						<p class="zcb-media-card__date">05.03.2026.</p>
+						<!-- /wp:paragraph -->
+						<!-- wp:heading {"level":3,"className":"zcb-media-card__title"} -->
+						<h3 class="wp-block-heading zcb-media-card__title">Bjelovar ide zeleno: predstavljen projekt Zeleni centar Bjelovar</h3>
+						<!-- /wp:heading -->
+						<!-- wp:buttons -->
+						<div class="wp-block-buttons">
+							<!-- wp:button {"className":"zcb-link-arrow"} -->
+							<div class="wp-block-button zcb-link-arrow"><a class="wp-block-button__link wp-element-button" href="#">Pro&#269;itaj objavu</a></div>
+							<!-- /wp:button -->
+						</div>
+						<!-- /wp:buttons -->
+					</div>
+					<!-- /wp:group -->
+				</article>
+				<!-- /wp:group -->
 			</div>
-			<div id="kontakt">
-				<h2 class="zcb-section__title">Kontaktirajte nas</h2>
-				<div class="zcb-section__rule"></div>
-				<div class="zcb-contact-box">
+			<!-- /wp:group -->
+
+			<!-- wp:buttons {"className":"zcb-media__actions"} -->
+			<div class="wp-block-buttons zcb-media__actions">
+				<!-- wp:button {"className":"zcb-button zcb-button--light"} -->
+				<div class="wp-block-button zcb-button zcb-button--light"><a class="wp-block-button__link wp-element-button" href="#novosti">Sve objave</a></div>
+				<!-- /wp:button -->
+			</div>
+			<!-- /wp:buttons -->
+		</div>
+		<!-- /wp:group -->
+	</section>
+	<!-- /wp:group -->
+
+	<!-- wp:group {"tagName":"section","anchor":"novosti","className":"zcb-section zcb-section--soft zcb-news-contact","layout":{"type":"default"}} -->
+	<section id="novosti" class="wp-block-group zcb-section zcb-section--soft zcb-news-contact">
+		<!-- wp:group {"className":"zcb-container zcb-news-contact__grid","layout":{"type":"default"}} -->
+		<div class="wp-block-group zcb-container zcb-news-contact__grid">
+			<!-- wp:group {"layout":{"type":"default"}} -->
+			<div class="wp-block-group">
+				<!-- wp:heading {"level":2,"className":"zcb-section__title"} -->
+				<h2 class="wp-block-heading zcb-section__title">Novosti i doga&#273;anja</h2>
+				<!-- /wp:heading -->
+
+				<!-- wp:group {"className":"zcb-section__rule","layout":{"type":"default"}} -->
+				<div class="wp-block-group zcb-section__rule"></div>
+				<!-- /wp:group -->
+
+				<!-- wp:group {"className":"zcb-news-feed","layout":{"type":"default"}} -->
+				<div class="wp-block-group zcb-news-feed">
+					<!-- wp:group {"className":"zcb-news-item","layout":{"type":"default"}} -->
+					<div class="wp-block-group zcb-news-item">
+						<!-- wp:html -->
+						<span class="zcb-news-symbol" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M5 4h14v16H5z" stroke="currentColor" stroke-width="1.8"/><path d="M8 8h8M8 12h8M8 16h5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></span>
+						<!-- /wp:html -->
+
+						<!-- wp:group {"layout":{"type":"default"}} -->
+						<div class="wp-block-group">
+							<!-- wp:heading {"level":3,"className":"zcb-news-item__title"} -->
+							<h3 class="wp-block-heading zcb-news-item__title">Najavljena radionica: Kako do zelenog poslovanja?</h3>
+							<!-- /wp:heading -->
+
+							<!-- wp:paragraph {"className":"zcb-news-item__text"} -->
+							<p class="zcb-news-item__text">Radionica za poduzetnike i obrtnike. 30.05.2026.</p>
+							<!-- /wp:paragraph -->
+						</div>
+						<!-- /wp:group -->
+
+						<!-- wp:html -->
+						<span class="zcb-arrow" aria-hidden="true"><svg viewBox="0 0 20 20" fill="none"><path d="M4 10h12M11 5l5 5-5 5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+						<!-- /wp:html -->
+					</div>
+					<!-- /wp:group -->
+
+					<!-- wp:group {"className":"zcb-news-item","layout":{"type":"default"}} -->
+					<div class="wp-block-group zcb-news-item">
+						<!-- wp:html -->
+						<span class="zcb-news-symbol" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M12 20V8M12 8 8 4M12 8l4-4M6 20h12" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+						<!-- /wp:html -->
+
+						<!-- wp:group {"layout":{"type":"default"}} -->
+						<div class="wp-block-group">
+							<!-- wp:heading {"level":3,"className":"zcb-news-item__title"} -->
+							<h3 class="wp-block-heading zcb-news-item__title">Poziv na besplatne edukacije</h3>
+							<!-- /wp:heading -->
+
+							<!-- wp:paragraph {"className":"zcb-news-item__text"} -->
+							<p class="zcb-news-item__text">Prijavite se na na&#353;e edukacije o odr&#382;ivosti i zelenim vje&#353;tinama. 20.05.2026.</p>
+							<!-- /wp:paragraph -->
+						</div>
+						<!-- /wp:group -->
+
+						<!-- wp:html -->
+						<span class="zcb-arrow" aria-hidden="true"><svg viewBox="0 0 20 20" fill="none"><path d="M4 10h12M11 5l5 5-5 5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+						<!-- /wp:html -->
+					</div>
+					<!-- /wp:group -->
+
+					<!-- wp:group {"className":"zcb-news-item","layout":{"type":"default"}} -->
+					<div class="wp-block-group zcb-news-item">
+						<!-- wp:html -->
+						<span class="zcb-news-symbol" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M6 5h12v14H6z" stroke="currentColor" stroke-width="1.8"/><path d="M9 3v4M15 3v4M6 9h12" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></span>
+						<!-- /wp:html -->
+
+						<!-- wp:group {"layout":{"type":"default"}} -->
+						<div class="wp-block-group">
+							<!-- wp:heading {"level":3,"className":"zcb-news-item__title"} -->
+							<h3 class="wp-block-heading zcb-news-item__title">Dan otvorenih vrata Zelenog centra</h3>
+							<!-- /wp:heading -->
+
+							<!-- wp:paragraph {"className":"zcb-news-item__text"} -->
+							<p class="zcb-news-item__text">Do&#273;ite i saznajte vi&#353;e o aktivnostima centra. 10.05.2026.</p>
+							<!-- /wp:paragraph -->
+						</div>
+						<!-- /wp:group -->
+
+						<!-- wp:html -->
+						<span class="zcb-arrow" aria-hidden="true"><svg viewBox="0 0 20 20" fill="none"><path d="M4 10h12M11 5l5 5-5 5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+						<!-- /wp:html -->
+					</div>
+					<!-- /wp:group -->
+				</div>
+				<!-- /wp:group -->
+
+				<!-- wp:buttons {"className":"zcb-news-contact__actions"} -->
+				<div class="wp-block-buttons zcb-news-contact__actions">
+					<!-- wp:button {"className":"zcb-button zcb-button--light"} -->
+					<div class="wp-block-button zcb-button zcb-button--light"><a class="wp-block-button__link wp-element-button" href="#">Sve novosti</a></div>
+					<!-- /wp:button -->
+				</div>
+				<!-- /wp:buttons -->
+			</div>
+			<!-- /wp:group -->
+
+			<!-- wp:group {"anchor":"kontakt","layout":{"type":"default"}} -->
+			<div id="kontakt" class="wp-block-group">
+				<!-- wp:heading {"level":2,"className":"zcb-section__title"} -->
+				<h2 class="wp-block-heading zcb-section__title">Kontaktirajte nas</h2>
+				<!-- /wp:heading -->
+
+				<!-- wp:group {"className":"zcb-section__rule","layout":{"type":"default"}} -->
+				<div class="wp-block-group zcb-section__rule"></div>
+				<!-- /wp:group -->
+
+				<!-- wp:group {"className":"zcb-contact-box","layout":{"type":"default"}} -->
+				<div class="wp-block-group zcb-contact-box">
+					<!-- wp:html -->
 					<form class="zcb-contact-form">
 						<div class="zcb-contact-field">
 							<input class="zcb-contact-input" type="text" placeholder="Ime i prezime *">
@@ -612,24 +791,33 @@
 							<button class="zcb-contact-submit" type="button">Po&#353;alji poruku</button>
 						</div>
 					</form>
-					<div class="zcb-contact-side">
-						<ul class="zcb-contact-list">
-							<li>Zeleni centar Bjelovar<br>Trg Eugena Kvaternika 1<br>43 000 Bjelovar</li>
-							<li>info@zeleni-centar-bjelovar.hr</li>
-							<li>+385 43 610 200</li>
-							<li>www.zeleni-centar-bjelovar.hr</li>
-						</ul>
-						<div class="zcb-socials" aria-label="Dru&#353;tvene mre&#382;e">
+					<!-- /wp:html -->
+
+					<!-- wp:group {"className":"zcb-contact-side","layout":{"type":"default"}} -->
+					<div class="wp-block-group zcb-contact-side">
+						<!-- wp:list {"className":"zcb-contact-list"} -->
+						<ul class="zcb-contact-list"><li>Zeleni centar Bjelovar<br>Trg Eugena Kvaternika 1<br>43 000 Bjelovar</li><li>info@zeleni-centar-bjelovar.hr</li><li>+385 43 610 200</li><li>www.zeleni-centar-bjelovar.hr</li></ul>
+						<!-- /wp:list -->
+
+						<!-- wp:group {"className":"zcb-socials","layout":{"type":"default"}} -->
+						<div class="wp-block-group zcb-socials">
+							<!-- wp:html -->
 							<a class="zcb-social" href="#">f</a>
 							<a class="zcb-social" href="#">in</a>
 							<a class="zcb-social" href="#">ig</a>
 							<a class="zcb-social" href="#">yt</a>
+							<!-- /wp:html -->
 						</div>
+						<!-- /wp:group -->
 					</div>
+					<!-- /wp:group -->
 				</div>
+				<!-- /wp:group -->
 			</div>
+			<!-- /wp:group -->
 		</div>
+		<!-- /wp:group -->
 	</section>
-	<!-- /wp:html -->
+	<!-- /wp:group -->
 </main>
 <!-- /wp:group -->
